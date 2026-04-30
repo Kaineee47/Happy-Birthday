@@ -30,10 +30,9 @@ REQUIREMENTS
 
 
 INSTALASI
-1. Pastikan Python 3.6+ sudah terinstall:
-   python --version
+1. Pastikan Python 3.6+ sudah terinstall.
 
-2. Simpan file "ke 3.py" di folder favorit Anda
+2. Simpan file "Happy Birthday.py" di folder favorit Anda
 
 3. Tidak ada setup atau instalasi package tambahan
 

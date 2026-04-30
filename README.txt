@@ -1,5 +1,5 @@
 ================================================================================
-          "HAPPY BIRTHDAY FURINA" - VISUALISASI KUE TURTLE GRAPHICS
+          "HAPPY BIRTHDAY" - VISUALISASI KUE TURTLE GRAPHICS
 ================================================================================
 
 DESKRIPSI

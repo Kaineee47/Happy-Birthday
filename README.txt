@@ -84,9 +84,8 @@ Eksekusi:
 
 KELEBIHAN
 ✓ Visual menarik dan estetis dengan design profesional
-✓ Mudah dijalankan - semua library built-in
+✓ Mudah dijalankan
 ✓ Kode terstruktur dengan fungsi yang jelas
-✓ Customizable: warna, ukuran, posisi bisa diubah
 ✓ Cross-platform (Windows, macOS, Linux)
 ✓ Cocok untuk pembelajaran grafis programming
 

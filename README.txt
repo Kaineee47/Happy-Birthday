@@ -125,7 +125,7 @@ LISENSI & PENGGUNAAN
 Program ini untuk educational dan personal use. Silakan gunakan dan modifikasi.
 
 LINK REPOSITORIES
-https://github.com/devroynix/Happy-Birthday-Furina
+https://github.com/kaineee47/Happy-Birthday-Furina
 
 CREDITS
 Nama : Muhammad Dhani Dharmawan
